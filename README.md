@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Current interests
+
+- Exploring [RustChain](https://github.com/Scottcjn/Rustchain), especially the Proof-of-Antiquity idea where older hardware can have a meaningful role in network participation.
+- Reviewing AI-agent coordination tools such as [Beacon](https://github.com/Scottcjn/beacon-skill).
+
